@@ -15,6 +15,6 @@ def my(a, b):
 if __name__ == '__main__':
     print_hi('PyCharm ok')
     print("ok")
-    print(my(1,2))
+    print(my(1,22))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
